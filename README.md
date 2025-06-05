@@ -1,5 +1,5 @@
 # Voice_Assistant
-University project for data training and SDK integration. Lisa is the voice assistant for Technology topics
+University project for feature implementation. Lisa is the voice assistant for Technology topics
 
 # Run Command
 python3 assistant.py start
